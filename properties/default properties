@@ -1,0 +1,30 @@
+default game -> 
+duration limit -> 90
+player song limit -> 2
+queue limit -> 4
+ignore bind -> i
+skip bind -> o
+instructions -> Use !song <song title> to auto-play music through my mic.
+instructions bind -> n
+current song bind -> m
+display commands -> true
+alltalk -> false
+automic bind -> b
+autostart mic -> true
+reload script bind -> semicolon
+volume up bind -> rightarrow
+volume down bind -> leftarrow
+volume increment -> 10
+enable command vocalization -> true
+share command vocalizations -> false
+steam path -> C:\Program Files (x86)\Steam
+steam locale -> 
+steamid3 -> 
+mysql path -> C:\xampp\mysql\bin
+mysql server -> localhost
+mysql user -> root
+mysql password -> 
+cached query expiration -> 100
+song cache limit -> 100
+min requests to cache -> 2
+youtube key -> 
